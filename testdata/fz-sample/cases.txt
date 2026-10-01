@@ -1,0 +1,7 @@
+camel|ue|UnrealEngine
+resel|ab|a ab
+adj|aa|aab
+sep|fr| foo_bar
+equal|zz|zzz
+lead|z|abcdefgz
+partial|ab|ac
